@@ -10,6 +10,9 @@ xiaohu95271 的个人博客
 
 ### 最新
 
+* [安装MySQL5.7 解压版](http://www.gyht.top/articles/2019/10/31/1572504435875.html)
+* [转义springbean](http://www.gyht.top/articles/2019/10/31/1572486924087.html)
+* [多线程请求](http://www.gyht.top/articles/2019/10/31/1572486789912.html)
 * [我在 GitHub 上的开源项目](http://www.gyht.top/my-github-repos)
 * [测试](http://www.gyht.top/articles/2019/10/30/1572410654791.html)
 
